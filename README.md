@@ -1,2 +1,2 @@
 # Rodrigo-Sebastiao-Moreira-Lima
-Print ("Olá Tutor de Projeto de Software")
+print('Olá Tutor de Projeto de Software')
